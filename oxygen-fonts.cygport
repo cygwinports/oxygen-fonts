@@ -1,8 +1,8 @@
 inherit kf5 font
 
 NAME="oxygen-fonts"
-VERSION=5.3.2
-RELEASE=2
+VERSION=5.4.3
+RELEASE=1
 CATEGORY="X11"
 SUMMARY="KDE desktop default fonts"
 DESCRIPTION="Oxygen Font is a project to design a desktop/gui font for
